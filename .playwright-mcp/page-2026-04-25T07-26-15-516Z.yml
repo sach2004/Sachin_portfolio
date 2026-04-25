@@ -1,0 +1,180 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e4]:
+      - link "AdoptAPaw" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: AdoptAPaw
+      - navigation [ref=e7]:
+        - link "Home" [ref=e8] [cursor=pointer]:
+          - /url: /
+        - link "About" [ref=e9] [cursor=pointer]:
+          - /url: "#about"
+        - link "How It Works" [ref=e10] [cursor=pointer]:
+          - /url: "#how-it-works"
+        - link "Contact" [ref=e11] [cursor=pointer]:
+          - /url: "#contact"
+        - generic [ref=e12]:
+          - link "Login" [ref=e13] [cursor=pointer]:
+            - /url: /auth/login
+          - link "Sign Up" [ref=e14] [cursor=pointer]:
+            - /url: /auth/register
+    - generic [ref=e15]:
+      - generic [ref=e19]:
+        - heading "Find Your Perfect Furry Companion" [level=1] [ref=e20]:
+          - text: Find Your Perfect
+          - text: Furry Companion
+        - paragraph [ref=e21]: Every dog deserves a loving home. Join our community and adopt a paw today.
+        - generic [ref=e22]:
+          - link "Adopt Now" [ref=e23] [cursor=pointer]:
+            - /url: /auth/register
+          - link "How It Works" [ref=e24] [cursor=pointer]:
+            - /url: "#how-it-works"
+      - link "Learn More" [ref=e26] [cursor=pointer]:
+        - /url: "#about"
+        - generic [ref=e27]: Learn More
+        - img [ref=e28]
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - heading "About AdoptAPaw" [level=2] [ref=e33]
+        - paragraph [ref=e34]: We connect loving homes with dogs in need of adoption across India.
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - img [ref=e38]
+          - heading "Love & Care" [level=3] [ref=e40]
+          - paragraph [ref=e41]: Every dog deserves a loving home. We strive to match each dog with the perfect family.
+        - generic [ref=e42]:
+          - img [ref=e44]
+          - heading "Thorough Verification" [level=3] [ref=e46]
+          - paragraph [ref=e47]: We ensure all adopters are properly verified to guarantee the safety and well-being of our dogs.
+        - generic [ref=e48]:
+          - img [ref=e50]
+          - heading "Support Network" [level=3] [ref=e52]
+          - paragraph [ref=e53]: Join our community of dog lovers, with ongoing support for all adopters.
+    - generic [ref=e55]:
+      - generic [ref=e56]:
+        - heading "How It Works" [level=2] [ref=e57]
+        - paragraph [ref=e58]: Our simple 4-step process to connect you with your new best friend.
+      - generic [ref=e61]:
+        - generic [ref=e62]:
+          - generic [ref=e64]:
+            - heading "1. Create an account" [level=3] [ref=e65]
+            - paragraph [ref=e66]: Register with your details and verify your identity with Aadhaar.
+          - generic [ref=e67]: "1"
+          - img [ref=e71]
+        - generic [ref=e73]:
+          - generic [ref=e75]:
+            - heading "2. Browse Available Dogs" [level=3] [ref=e76]
+            - paragraph [ref=e77]: Explore our collection of dogs looking for a loving home.
+          - generic [ref=e78]: "2"
+          - img [ref=e82]
+        - generic [ref=e84]:
+          - generic [ref=e86]:
+            - heading "3. Home Visit Verification" [level=3] [ref=e87]
+            - paragraph [ref=e88]: Our NGO partners will visit your home to ensure it's suitable for your chosen dog.
+          - generic [ref=e89]: "3"
+          - img [ref=e93]
+        - generic [ref=e95]:
+          - generic [ref=e97]:
+            - heading "4. Finalize Adoption" [level=3] [ref=e98]
+            - paragraph [ref=e99]: Visit our office to complete paperwork and welcome your new family member home!
+          - generic [ref=e100]: "4"
+          - img [ref=e104]
+      - link "Get Started" [ref=e107] [cursor=pointer]:
+        - /url: /auth/register
+    - generic [ref=e109]:
+      - generic [ref=e110]:
+        - heading "Contact Us" [level=2] [ref=e111]
+        - paragraph [ref=e112]: Have questions? We're here to help you on your adoption journey.
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - heading "Get in Touch" [level=3] [ref=e116]
+          - paragraph [ref=e117]: We'd love to hear from you. Reach out with any questions about adoption or our process.
+          - generic [ref=e118]:
+            - generic [ref=e119]:
+              - img [ref=e120]
+              - generic [ref=e123]:
+                - paragraph [ref=e124]: Address
+                - paragraph [ref=e125]: 403/9, Road No. 35, Aditya Enclave, Venkatagiri, Jubilee Hills, Hyderabad, Telangana 500033
+            - generic [ref=e126]:
+              - img [ref=e127]
+              - generic [ref=e129]:
+                - paragraph [ref=e130]: Email
+                - paragraph [ref=e131]: info@bluecrossofhyd.org
+            - generic [ref=e132]:
+              - img [ref=e133]
+              - generic [ref=e135]:
+                - paragraph [ref=e136]: Phone
+                - paragraph [ref=e137]: +91 88866 76074
+        - generic [ref=e139]:
+          - generic [ref=e140]:
+            - generic [ref=e141]: Full Name
+            - textbox "Full Name" [ref=e142]:
+              - /placeholder: Your Name
+          - generic [ref=e143]:
+            - generic [ref=e144]: Email Address
+            - textbox "Email Address" [ref=e145]:
+              - /placeholder: Your Email
+          - generic [ref=e146]:
+            - generic [ref=e147]: Subject
+            - textbox "Subject" [ref=e148]
+          - generic [ref=e149]:
+            - generic [ref=e150]: Message
+            - textbox "Message" [ref=e151]:
+              - /placeholder: Your Message
+          - button "Send Message" [ref=e152] [cursor=pointer]
+    - generic [ref=e154]:
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - heading "AdoptAPaw" [level=3] [ref=e157]
+          - paragraph [ref=e158]: Connecting loving homes with dogs in need. Our mission is to ensure every paw finds a family.
+          - generic [ref=e159]:
+            - link [ref=e160] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e161]
+            - link [ref=e164] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e165]
+            - link [ref=e167] [cursor=pointer]:
+              - /url: "#"
+              - img [ref=e168]
+            - link [ref=e170] [cursor=pointer]:
+              - /url: mailto:info@adoptapaw.com
+              - img [ref=e171]
+        - generic [ref=e174]:
+          - heading "Quick Links" [level=3] [ref=e175]
+          - list [ref=e176]:
+            - listitem [ref=e177]:
+              - link "Home" [ref=e178] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e179]:
+              - link "About Us" [ref=e180] [cursor=pointer]:
+                - /url: "#about"
+            - listitem [ref=e181]:
+              - link "Available Dogs" [ref=e182] [cursor=pointer]:
+                - /url: /home
+            - listitem [ref=e183]:
+              - link "How Adoption Works" [ref=e184] [cursor=pointer]:
+                - /url: "#how-it-works"
+        - generic [ref=e185]:
+          - heading "Adoption Guidelines" [level=3] [ref=e186]
+          - list [ref=e187]:
+            - listitem [ref=e188]: Must be at least 18 years old
+            - listitem [ref=e189]: Stable housing situation
+            - listitem [ref=e190]: Verification of identity
+            - listitem [ref=e191]: Home visit approval
+            - listitem [ref=e192]: Commitment to pet care
+        - generic [ref=e193]:
+          - heading "Contact Us" [level=3] [ref=e194]
+          - generic [ref=e195]:
+            - paragraph [ref=e196]: 🐾 Blue Cross of Hyderabad
+            - paragraph [ref=e197]: 403/9, Road No. 35, Aditya Enclave, Venkatagiri, Jubilee Hills
+            - paragraph [ref=e198]: Hyderabad, Telangana 500033
+            - paragraph [ref=e199]: "Phone: +91 8886676074"
+            - paragraph [ref=e200]: "Email: info@bluecrossofhyd.org"
+      - generic [ref=e201]:
+        - paragraph [ref=e202]: © 2026 AdoptAPaw. All rights reserved.
+        - generic [ref=e203]:
+          - generic [ref=e204]: Made with
+          - img [ref=e205]
+          - generic [ref=e207]: for our furry friends
+  - alert [ref=e208]

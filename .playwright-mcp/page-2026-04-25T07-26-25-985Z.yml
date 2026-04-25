@@ -1,0 +1,195 @@
+- generic [active] [ref=e1]:
+  - main [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - paragraph [ref=e10]: Results are out for Gprime 2026! — Check your performance & and solutions!
+        - link "Check Now →" [ref=e11] [cursor=pointer]:
+          - /url: /gprime2026-results
+          - button "Check Now →" [ref=e12]:
+            - text: Check Now
+            - generic [ref=e13]: →
+      - generic [ref=e14]:
+        - navigation [ref=e16]:
+          - generic [ref=e19]:
+            - generic [ref=e20]:
+              - link "Research" [ref=e22] [cursor=pointer]:
+                - /url: /Research
+              - link "Projects" [ref=e24] [cursor=pointer]:
+                - /url: /projects
+              - link "Events" [ref=e26] [cursor=pointer]:
+                - /url: /Events
+              - link "News" [ref=e28] [cursor=pointer]:
+                - /url: /News
+            - link "AAC Logo" [ref=e30] [cursor=pointer]:
+              - /url: /
+              - img "AAC Logo" [ref=e34]
+            - generic [ref=e36]:
+              - link "Achievements" [ref=e38] [cursor=pointer]:
+                - /url: /Achievements
+              - link "Administration" [ref=e40] [cursor=pointer]:
+                - /url: /Administration
+              - link "About AAC" [ref=e42] [cursor=pointer]:
+                - /url: /About
+        - main [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]:
+              - generic [ref=e46]:
+                - heading "Advanced Academic Center" [level=1] [ref=e47]:
+                  - generic [ref=e48]: Advanced Academic
+                  - text: Center
+                - heading "Gokaraju Rangaraju Institute of Engineering and Technology" [level=2] [ref=e50]
+              - paragraph [ref=e53]: An interdisciplinary research hub where creativity, innovation, and excellence converge to shape the future
+              - generic [ref=e54]:
+                - button "Explore More →" [ref=e55] [cursor=pointer]:
+                  - generic [ref=e56]:
+                    - text: Explore More
+                    - generic [ref=e57]: →
+                - link "View Research" [ref=e60] [cursor=pointer]:
+                  - /url: /Research
+                  - text: View Research
+            - img [ref=e69] [cursor=pointer]
+          - generic [ref=e72]:
+            - generic [ref=e73]:
+              - generic [ref=e77]: About AAC
+              - heading "Pushing Boundaries of Innovation" [level=2] [ref=e78]
+              - paragraph [ref=e79]: We are an interdisciplinary research center committed to excellence in teaching, learning, and research, bringing together experts to address innovative problem areas.
+            - generic [ref=e84]:
+              - generic [ref=e88]:
+                - img [ref=e92]
+                - generic [ref=e94]: 50+
+                - generic [ref=e95]: Research Projects
+              - generic [ref=e99]:
+                - img [ref=e103]
+                - generic [ref=e105]: 100+
+                - generic [ref=e106]: Students Involved
+              - generic [ref=e110]:
+                - img [ref=e114]
+                - generic [ref=e116]: 10+
+                - generic [ref=e117]: Published Papers
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - generic [ref=e124]: What We Do
+              - heading "Our Focus Areas" [level=2] [ref=e125]
+            - generic [ref=e130]:
+              - generic [ref=e134]:
+                - generic [ref=e137]: 🔬
+                - heading "Research & Innovation" [level=3] [ref=e138]
+                - paragraph [ref=e139]: Cutting-edge research projects that push the boundaries of technology and knowledge
+              - generic [ref=e143]:
+                - generic [ref=e146]: 🎓
+                - heading "Student Development" [level=3] [ref=e147]
+                - paragraph [ref=e148]: Comprehensive programs to nurture young minds and prepare them for future challenges
+              - generic [ref=e152]:
+                - generic [ref=e155]: 🤝
+                - heading "Industry Collaboration" [level=3] [ref=e156]
+                - paragraph [ref=e157]: Strong partnerships with industry leaders to bridge the gap between academia and practice
+          - generic [ref=e159]:
+            - generic [ref=e160]:
+              - generic [ref=e164]: Featured Events
+              - heading "Upcoming Events" [level=2] [ref=e165]
+            - generic [ref=e170]:
+              - generic [ref=e173] [cursor=pointer]:
+                - generic [ref=e174]:
+                  - generic [ref=e175]: ✨
+                  - generic [ref=e176]: "2026"
+                - heading "Opulence 2026" [level=3] [ref=e177]
+                - paragraph [ref=e178]: AAC's flagship technical symposium featuring workshops and competitions
+                - generic [ref=e179]:
+                  - generic [ref=e182]: Tech Talks
+                  - generic [ref=e185]: Workshops
+                  - generic [ref=e188]: Competitions
+              - generic [ref=e191]:
+                - generic [ref=e192]:
+                  - generic [ref=e193]: 🚀
+                  - generic [ref=e194]: "2026"
+                - heading "AAC Project Expo 2026" [level=3] [ref=e195]
+                - paragraph [ref=e196]: Showcase of innovative student projects across all technology domains
+                - generic [ref=e197]:
+                  - generic [ref=e200]: Live Demos
+                  - generic [ref=e203]: Expert Judges
+                  - generic [ref=e206]: Awards & Recognition
+            - link "View All Events →" [ref=e208] [cursor=pointer]:
+              - /url: /Events
+              - generic [ref=e209]:
+                - img [ref=e210]
+                - text: View All Events
+                - generic [ref=e212]: →
+          - generic [ref=e216]:
+            - generic [ref=e220]: Get in Touch
+            - heading "Contact Us" [level=2] [ref=e221]
+            - paragraph [ref=e222]: Ready to join our community of innovators? Get in touch with us today.
+            - generic [ref=e227]:
+              - link "Email Us aacgriet.org@gmail.com" [ref=e228] [cursor=pointer]:
+                - /url: mailto:aacgriet.org@gmail.com
+                - generic [ref=e231]:
+                  - img [ref=e234]
+                  - heading "Email Us" [level=3] [ref=e236]
+                  - paragraph [ref=e237]: aacgriet.org@gmail.com
+              - link "Join Us Become part of our community" [ref=e238] [cursor=pointer]:
+                - /url: https://instagram.com/aac_grietofficial?igshid=YmMyMTA2M2Y=
+                - generic [ref=e242]:
+                  - img [ref=e245]
+                  - heading "Join Us" [level=3] [ref=e247]
+                  - paragraph [ref=e248]: Become part of our community
+        - generic [ref=e249]:
+          - button "Back to top" [ref=e251] [cursor=pointer]:
+            - img [ref=e253]
+          - generic [ref=e263]:
+            - generic [ref=e265]:
+              - generic [ref=e266]:
+                - heading "About AAC" [level=3] [ref=e269]
+                - paragraph [ref=e270]: The Advanced Academic Center (AAC) of GRIET, Hyderabad is an inter-disciplinary research centre committed to excellence in teaching, learning, and research, bringing together experts with diverse backgrounds to address various aspects of innovative problem areas.
+              - generic [ref=e275]:
+                - heading "Quick Links" [level=3] [ref=e278]
+                - generic [ref=e279]:
+                  - link "Achievements" [ref=e280] [cursor=pointer]:
+                    - /url: /Achievements
+                    - text: Achievements
+                  - link "Research" [ref=e282] [cursor=pointer]:
+                    - /url: /Research
+                    - text: Research
+                  - link "Events" [ref=e284] [cursor=pointer]:
+                    - /url: /Events
+                    - text: Events
+                  - link "News" [ref=e286] [cursor=pointer]:
+                    - /url: /News
+                    - text: News
+                  - link "Administration" [ref=e288] [cursor=pointer]:
+                    - /url: /Administration
+                    - text: Administration
+                  - link "Projects" [ref=e290] [cursor=pointer]:
+                    - /url: /projects
+                    - text: Projects
+              - generic [ref=e292]:
+                - heading "Connect With Us" [level=3] [ref=e295]
+                - generic [ref=e296]:
+                  - link "LinkedIn" [ref=e297] [cursor=pointer]:
+                    - /url: https://www.linkedin.com/school/aac-griet/
+                    - img [ref=e300]
+                  - link "YouTube" [ref=e302] [cursor=pointer]:
+                    - /url: https://www.youtube.com/channel/UCqpWtDtDLxBLy8yJZO_-eBw
+                    - img [ref=e305]
+                  - link "Instagram" [ref=e307] [cursor=pointer]:
+                    - /url: https://instagram.com/aac_grietofficial?igshid=YmMyMTA2M2Y=
+                    - img [ref=e310]
+                  - link "GitHub" [ref=e312] [cursor=pointer]:
+                    - /url: https://github.com/AAC-Open-Source-Pool/
+                    - img [ref=e315]
+                - link "Get In Touch aacgrietofficial@gmail.com" [ref=e317] [cursor=pointer]:
+                  - /url: mailto:aacgrietofficial@gmail.com
+                  - img [ref=e319]
+                  - generic [ref=e321]:
+                    - generic [ref=e322]: Get In Touch
+                    - generic [ref=e323]: aacgrietofficial@gmail.com
+                - generic [ref=e325]:
+                  - img "AAC Logo" [ref=e327]
+                  - img "GRIET Logo" [ref=e329]
+            - paragraph [ref=e338]: © 2026 Advanced Academic Center, GRIET. All rights reserved.
+  - alert [ref=e339]
+  - generic:
+    - region "Notifications-top"
+    - region "Notifications-top-left"
+    - region "Notifications-top-right"
+    - region "Notifications-bottom-left"
+    - region "Notifications-bottom"
+    - region "Notifications-bottom-right"

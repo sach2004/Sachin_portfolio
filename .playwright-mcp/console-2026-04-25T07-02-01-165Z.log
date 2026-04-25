@@ -1,0 +1,12 @@
+[     601ms] [INFO] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[     665ms] [LOG] [HMR] connected @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[     769ms] [LOG] %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[     769ms] [LOG] %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {route: /, path: /} @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[     770ms] [LOG] %c[Vercel Web Analytics]%c [view] http://127.0.0.1:3000/ color: rgb(120, 120, 120) color: inherit {o: http://127.0.0.1:3000/, sv: 0.1.3, sdkn: @vercel/analytics/next, sdkv: 1.3.1, ts: 1777100521934} /_vercel/insights/view @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  297388ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  297488ms] [LOG] [Fast Refresh] done in 39ms @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  306900ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  306988ms] [LOG] [Fast Refresh] done in 24ms @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  306999ms] [WARNING] %c%s%c  [33m[1m⚠[22m[39m metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server   @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  319485ms] [LOG] [Fast Refresh] rebuilding @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287
+[  319514ms] [LOG] [Fast Refresh] done in 89ms @ http://127.0.0.1:3000/_next/static/chunks/de717_next_dist_dcbd183e._.js:2287

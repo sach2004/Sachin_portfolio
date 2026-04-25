@@ -1,0 +1,274 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "SST" [ref=e4]:
+        - /url: "#top"
+      - generic [ref=e5]:
+        - link "Projects" [ref=e6]:
+          - /url: "#projects"
+        - link "Experience" [ref=e7]:
+          - /url: "#experience"
+        - link "Skills" [ref=e8]:
+          - /url: "#skills"
+        - link "Contact" [ref=e9]:
+          - /url: "#contact"
+        - link "Resume" [ref=e10]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - paragraph [ref=e13]: FULL-STACK ENGINEER // BACKEND SYSTEMS // AI APPLICATIONS
+      - heading "SACHIN .S. THANKACHAN" [level=1] [ref=e14]
+      - paragraph [ref=e15]: Full-stack engineer specializing in backend systems and AI-powered applications, with experience building scalable APIs, real-time systems, and GenAI platforms.
+      - generic [ref=e16]:
+        - link "VIEW PROJECTS" [ref=e17]:
+          - /url: "#projects"
+        - link "OPEN RESUME" [ref=e18]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+    - img "Sachin S Thankachan portrait" [ref=e21]
+  - generic [ref=e23]: NODE.JS // EXPRESS // NEXT.JS // TYPESCRIPT // MONGODB // POSTGRESQL // RAG // LANGCHAIN // OPENAI SDK // DOCKER // KUBERNETES // AWS // GENAI HACKATHON WINNER // NODE.JS // EXPRESS // NEXT.JS // TYPESCRIPT // MONGODB // POSTGRESQL // RAG // LANGCHAIN // OPENAI SDK // DOCKER // KUBERNETES // AWS //
+  - heading "Experience" [level=2] [ref=e24]
+  - generic [ref=e25]:
+    - article [ref=e26]:
+      - paragraph [ref=e27]: Mar 2025 - Present
+      - heading "Full-Stack Developer Intern BuildBit" [level=3] [ref=e28]:
+        - text: Full-Stack Developer Intern
+        - text: BuildBit
+      - paragraph [ref=e29]: Node.js, Express.js, MongoDB, Firebase Auth, FCM, AWS S3
+      - list [ref=e30]:
+        - listitem [ref=e31]: Engineered backend systems for a food rescue platform with User, Vendor, and Admin domains protected by Firebase Auth middleware.
+        - listitem [ref=e32]: Built transactional order flows using MongoDB sessions, stock deduction, QR pickup verification, and a 9-state status machine with event-based notifications.
+        - listitem [ref=e33]: Delivered admin analytics with aggregation pipelines, KPI dashboards, time-series graphs, and export support for Excel and PDF.
+    - article [ref=e34]:
+      - paragraph [ref=e35]: Jan 2025 - Mar 2025
+      - heading "Full-Stack Developer Intern BytesEdge" [level=3] [ref=e36]:
+        - text: Full-Stack Developer Intern
+        - text: BytesEdge
+      - paragraph [ref=e37]: Node.js, Express, MongoDB, REST APIs
+      - list [ref=e38]:
+        - listitem [ref=e39]: Shipped backend features across user management, activity tracking, profiles, analytics, notices, and admin workflows.
+        - listitem [ref=e40]: Designed a service-based architecture to separate API layers, business logic, and shared utilities cleanly.
+        - listitem [ref=e41]: Built CRUD APIs, role-based access control, form-driven workflows, Mongoose schemas, and error-handling middleware.
+  - heading "Featured Projects" [level=2] [ref=e42]
+  - generic [ref=e43]:
+    - article [ref=e44]:
+      - generic [ref=e45]: LOANS // REMINDERS // REPAYMENT TRACKING
+      - generic [ref=e46]:
+        - generic [ref=e47]: Fintech Workflow
+        - generic [ref=e48]: "2024"
+      - heading "Karza" [level=3] [ref=e49]
+      - paragraph [ref=e50]: A loan management and repayment tracking system built to simplify peer-to-peer lending with reminders, visibility, and accountability baked into the workflow.
+      - list [ref=e51]:
+        - listitem [ref=e52]: Handled lender and borrower tracking with transaction visibility and request approvals
+        - listitem [ref=e53]: Added automated repayment reminders with Twilio, Multer uploads, and scheduled jobs via node-cron
+      - paragraph [ref=e54]: Node.js // Express.js // MongoDB // Passport.js // Twilio
+      - generic [ref=e55]:
+        - link "Resume" [ref=e56]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+        - link "GitHub" [ref=e57]:
+          - /url: https://github.com/sach2004
+    - article [ref=e58]:
+      - generic [ref=e59]: SOLANA // AIRDROP // TOKEN LAUNCHER
+      - generic [ref=e60]:
+        - generic [ref=e61]: Web3 Developer Toolkit
+        - generic [ref=e62]: "2025"
+      - heading "SolSuite" [level=3] [ref=e63]
+      - paragraph [ref=e64]: A Solana-focused developer toolkit that brings wallet flows, Devnet airdrops, and token-launch utilities into one unified interface.
+      - list [ref=e65]:
+        - listitem [ref=e66]: Built tab-based modules for airdrops, token launch workflows, and DEX-oriented utilities
+        - listitem [ref=e67]: Added wallet integration, loading states, and developer-friendly feedback for blockchain actions
+      - paragraph [ref=e68]: Next.js // React // Solana Web3.js // SPL Token SDK // Tailwind CSS
+      - generic [ref=e69]:
+        - link "Website" [ref=e70]:
+          - /url: https://sol-app-lime.vercel.app/
+        - link "GitHub" [ref=e71]:
+          - /url: https://github.com/sach2004/sol_app
+    - article [ref=e72]:
+      - generic [ref=e73]: HOSTEL // APPROVALS // ACTIVITY TRACKING
+      - generic [ref=e74]:
+        - generic [ref=e75]: Role-Based Platform
+        - generic [ref=e76]: "2025"
+      - heading "Hostel-Hub" [level=3] [ref=e77]
+      - paragraph [ref=e78]: A hostel exit approval system that digitizes student requests, admin approvals, and audit visibility through a role-based dashboard.
+      - list [ref=e79]:
+        - listitem [ref=e80]: Built student request submission and admin approve-reject workflows with activity tracking
+        - listitem [ref=e81]: Structured the system around secure auth, Prisma models, and a dashboard-first UX
+      - paragraph [ref=e82]: Next.js // React // Prisma // NextAuth // Tailwind CSS
+      - generic [ref=e83]:
+        - link "Website" [ref=e84]:
+          - /url: https://hostel-exit-mgmt.vercel.app/
+        - link "GitHub" [ref=e85]:
+          - /url: https://github.com/sach2004/hostel-exit-mgmt
+    - article [ref=e86]:
+      - generic [ref=e87]: RETRIEVAL // DOCUMENTATION // CODEBASE SEARCH
+      - generic [ref=e88]:
+        - generic [ref=e89]: AI Code Intelligence
+        - generic [ref=e90]: Feb 2025
+      - heading "DevInsight" [level=3] [ref=e91]
+      - paragraph [ref=e92]: An AI code analysis platform that uses vector search to navigate large codebases faster and generate documentation from natural language queries.
+      - list [ref=e93]:
+        - listitem [ref=e94]: Built indexed codebase embeddings with ChromaDB for faster repo understanding
+        - listitem [ref=e95]: Reached 85% retrieval accuracy and reduced comprehension time by 60%
+      - paragraph [ref=e96]: Next.js // React // ChromaDB // Groq LLM
+      - generic [ref=e97]:
+        - link "Website" [ref=e98]:
+          - /url: https://dev-in-sight-v2.vercel.app/
+        - link "GitHub" [ref=e99]:
+          - /url: https://github.com/sach2004/DevInSight-v2-
+    - article [ref=e100]:
+      - generic [ref=e101]: PET DISCOVERY // ADOPTION // MATCHING
+      - generic [ref=e102]:
+        - generic [ref=e103]: Consumer Web App
+        - generic [ref=e104]: "2025"
+      - heading "AdoptAPaw" [level=3] [ref=e105]
+      - paragraph [ref=e106]: A pet adoption platform focused on helping users discover and connect with the right companion through a clean, approachable experience.
+      - list [ref=e107]:
+        - listitem [ref=e108]: Built the core adoption browsing experience and shipped it as a live consumer-facing product
+        - listitem [ref=e109]: Focused on discoverability, responsiveness, and a simple path from browsing to action
+      - paragraph [ref=e110]: Next.js // JavaScript // Prisma // Tailwind CSS
+      - generic [ref=e111]:
+        - link "Website" [ref=e112]:
+          - /url: https://adopt-a-paw-amber.vercel.app/
+        - link "GitHub" [ref=e113]:
+          - /url: https://github.com/sach2004/AdoptAPaw
+    - article [ref=e114]:
+      - generic [ref=e115]: LOCALIZATION // VOICE // EDUCATION AI
+      - generic [ref=e116]:
+        - generic [ref=e117]: AI Education Product
+        - generic [ref=e118]: May 2025
+      - heading "SamajAI" [level=3] [ref=e119]
+      - paragraph [ref=e120]: An edtech platform that localizes English educational content into Indian languages with AI adaptation, voice narration, and learning workflows.
+      - list [ref=e121]:
+        - listitem [ref=e122]: Localized lessons with cultural adaptation such as dollar-to-rupee and food-context changes
+        - listitem [ref=e123]: Added voice teacher, chatbot, PDF translator, and quiz generation on a Prisma + PostgreSQL backend
+      - paragraph [ref=e124]: Next.js // Gemini AI // Prisma // PostgreSQL
+      - generic [ref=e125]:
+        - link "Website" [ref=e126]:
+          - /url: https://samaj-ai.vercel.app/
+        - link "GitHub" [ref=e127]:
+          - /url: https://github.com/sach2004/samajAI
+    - article [ref=e128]:
+      - generic [ref=e129]: AAC // EVENTS // RESEARCH // DIGITAL PRESENCE
+      - generic [ref=e130]:
+        - generic [ref=e131]: Institutional Web Presence
+        - generic [ref=e132]: "2024"
+      - heading "AAC GRIET Website" [level=3] [ref=e133]
+      - paragraph [ref=e134]: The official AAC GRIET website built to present events, research, news, club activities, and the organization’s digital identity clearly.
+      - list [ref=e135]:
+        - listitem [ref=e136]: Structured the site around discoverable sections for events, research, administration, and student initiatives
+        - listitem [ref=e137]: Improved the team’s digital presence with a polished, production-facing institutional website
+      - paragraph [ref=e138]: Next.js // React // Responsive UI // Content Architecture
+      - generic [ref=e139]:
+        - link "Website" [ref=e140]:
+          - /url: https://www.aacgriet.com/
+        - link "Leadership" [ref=e141]:
+          - /url: "#contact"
+  - heading "Technical Edge" [level=2] [ref=e142]
+  - generic [ref=e143]:
+    - article [ref=e144]:
+      - heading "Backend Systems" [level=3] [ref=e145]
+      - list [ref=e146]:
+        - listitem [ref=e147]: Node.js
+        - listitem [ref=e148]: Express.js
+        - listitem [ref=e149]: REST APIs
+        - listitem [ref=e150]: MongoDB
+        - listitem [ref=e151]: PostgreSQL
+        - listitem [ref=e152]: Supabase
+        - listitem [ref=e153]: Prisma
+    - article [ref=e154]:
+      - heading "Frontend Delivery" [level=3] [ref=e155]
+      - list [ref=e156]:
+        - listitem [ref=e157]: React
+        - listitem [ref=e158]: Next.js
+        - listitem [ref=e159]: Tailwind CSS
+        - listitem [ref=e160]: Bootstrap
+        - listitem [ref=e161]: HTML/CSS
+        - listitem [ref=e162]: TypeScript
+    - article [ref=e163]:
+      - heading "AI & Problem Solving" [level=3] [ref=e164]
+      - list [ref=e165]:
+        - listitem [ref=e166]: OpenAI SDK
+        - listitem [ref=e167]: RAG
+        - listitem [ref=e168]: LangChain
+        - listitem [ref=e169]: LangGraph
+        - listitem [ref=e170]: Gemini AI
+        - listitem [ref=e171]: LeetCode 1600+
+        - listitem [ref=e172]: 300+ problems
+    - article [ref=e173]:
+      - heading "DevOps & Tools" [level=3] [ref=e174]
+      - list [ref=e175]:
+        - listitem [ref=e176]: Docker
+        - listitem [ref=e177]: Kubernetes
+        - listitem [ref=e178]: AWS
+        - listitem [ref=e179]: Git
+        - listitem [ref=e180]: GitHub
+        - listitem [ref=e181]: Prometheus
+        - listitem [ref=e182]: Grafana
+        - listitem [ref=e183]: Vercel
+        - listitem [ref=e184]: Postman
+  - generic [ref=e185]:
+    - generic [ref=e186]:
+      - heading "LET'S BUILD." [level=2] [ref=e187]
+      - paragraph [ref=e188]: Available for backend engineering, full-stack product work, and AI application builds.
+      - generic [ref=e189]:
+        - heading "Reach Out" [level=3] [ref=e190]
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - strong [ref=e193]: EMAIL
+            - link "sachinthankachan0605@gmail.com" [ref=e194]:
+              - /url: mailto:sachinthankachan0605@gmail.com
+          - generic [ref=e195]:
+            - strong [ref=e196]: PHONE
+            - link "+91 9391876937" [ref=e197]:
+              - /url: tel:+919391876937
+          - generic [ref=e198]:
+            - strong [ref=e199]: GITHUB
+            - link "github.com/sach2004" [ref=e200]:
+              - /url: https://github.com/sach2004
+          - generic [ref=e201]:
+            - strong [ref=e202]: LINKEDIN
+            - link "linkedin.com/in/sachin-thankachan-53071622b" [ref=e203]:
+              - /url: https://www.linkedin.com/in/sachin-thankachan-53071622b/
+          - generic [ref=e204]:
+            - strong [ref=e205]: LEETCODE
+            - link "leetcode.com/u/23241A0548" [ref=e206]:
+              - /url: https://leetcode.com/u/23241A0548/
+      - generic [ref=e207]:
+        - heading "Achievements" [level=3] [ref=e208]
+        - list [ref=e209]:
+          - listitem [ref=e210]: Winner - Encode 2025 Hackathon, MREC
+          - listitem [ref=e211]: Winner - Vivitsu 2025 Hackathon, GRIET
+          - listitem [ref=e212]: Winner - Udhgam 2025 Hackathon, Woxsen
+          - listitem [ref=e213]: Winner - GenAI Hackathon, GRIET
+          - listitem [ref=e214]: Finalist - Robotics Competition, IIT BHU
+    - generic [ref=e215]:
+      - generic [ref=e216]:
+        - heading "AAC | Web Development Core Team & Mentor" [level=3] [ref=e217]
+        - paragraph [ref=e218]: Oct 2023 - Present
+        - list [ref=e219]:
+          - listitem [ref=e220]: Developed and maintained the official AAC website, improving its digital presence.
+          - listitem [ref=e221]: Mentored 25+ students in MERN stack and Next.js development.
+          - listitem [ref=e222]: Organized workshops, hackathons, and ideathons for 500+ participants.
+          - listitem [ref=e223]: Led new technical initiatives including AI and ML integration workshops.
+      - generic [ref=e224]:
+        - heading "Education" [level=3] [ref=e225]
+        - generic [ref=e226]:
+          - generic [ref=e227]:
+            - heading "Gokaraju Rangaraju Institute of Engineering and Technology" [level=4] [ref=e228]
+            - paragraph [ref=e229]: B.Tech Computer Science | 2023-2027
+            - paragraph [ref=e230]: "GPA: 8.54/10"
+          - generic [ref=e231]:
+            - heading "Sri Chaitanya Junior College" [level=4] [ref=e232]
+            - paragraph [ref=e233]: Class XII (MPC) | 2021-2023
+            - paragraph [ref=e234]: "Percentage: 96.3%"
+          - generic [ref=e235]:
+            - heading "Bharatiya Vidya Bhavan's Public School" [level=4] [ref=e236]
+            - paragraph [ref=e237]: High School | 2008-2020
+            - paragraph [ref=e238]: "Percentage: 88%"
+        - link "DOWNLOAD RESUME" [ref=e239]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+  - contentinfo [ref=e240]:
+    - paragraph [ref=e241]: © 2026 SACHIN S THANKACHAN. BUILT FOR BACKEND SYSTEMS, PRODUCT DELIVERY, AND AI-POWERED WORK.
+    - generic [ref=e242]: NEXT.JS PORTFOLIO WITH BRUTALIST ENERGY AND REAL PROJECT DEPTH.
+  - button "Open Next.js Dev Tools" [ref=e248] [cursor=pointer]:
+    - img [ref=e249]
+  - alert [ref=e252]

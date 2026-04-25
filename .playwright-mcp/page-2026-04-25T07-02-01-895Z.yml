@@ -1,0 +1,229 @@
+- generic [active] [ref=e1]:
+  - navigation [ref=e2]:
+    - generic [ref=e3]:
+      - link "SST" [ref=e4]:
+        - /url: "#top"
+      - generic [ref=e5]:
+        - link "Projects" [ref=e6]:
+          - /url: "#projects"
+        - link "Experience" [ref=e7]:
+          - /url: "#experience"
+        - link "Skills" [ref=e8]:
+          - /url: "#skills"
+        - link "Contact" [ref=e9]:
+          - /url: "#contact"
+        - link "Resume" [ref=e10]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+  - generic [ref=e11]:
+    - generic [ref=e12]:
+      - paragraph [ref=e13]: FULL-STACK ENGINEER // BACKEND SYSTEMS // AI APPLICATIONS
+      - heading "SACHIN .S. THANKACHAN" [level=1] [ref=e14]
+      - paragraph [ref=e15]: Full-stack engineer specializing in backend systems and AI-powered applications, with experience building scalable APIs, real-time systems, and GenAI platforms.
+      - generic [ref=e16]:
+        - link "VIEW PROJECTS" [ref=e17]:
+          - /url: "#projects"
+        - link "OPEN RESUME" [ref=e18]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+    - generic [ref=e20]:
+      - generic [ref=e21]: SST
+      - paragraph [ref=e22]: Backend-first builder
+      - heading "Scalable APIs, product-grade systems, and AI-driven experiences." [level=2] [ref=e23]
+      - generic [ref=e24]: OpenAI SDKNode.jsNext.jsMongoDB
+      - paragraph [ref=e25]: Focused on backend reliability, developer experience, and AI workflows that solve real product problems.
+  - generic [ref=e27]: NODE.JS // EXPRESS // NEXT.JS // TYPESCRIPT // MONGODB // POSTGRESQL // RAG // LANGCHAIN // OPENAI SDK // DOCKER // KUBERNETES // AWS // GENAI HACKATHON WINNER // NODE.JS // EXPRESS // NEXT.JS // TYPESCRIPT // MONGODB // POSTGRESQL // RAG // LANGCHAIN // OPENAI SDK // DOCKER // KUBERNETES // AWS //
+  - heading "Featured Projects" [level=2] [ref=e28]
+  - generic [ref=e29]:
+    - article [ref=e30]:
+      - generic [ref=e31]: RETRIEVAL // DOCUMENTATION // CODEBASE SEARCH
+      - generic [ref=e32]:
+        - generic [ref=e33]: AI Code Intelligence
+        - generic [ref=e34]: Feb 2025
+      - heading "DevInsight" [level=3] [ref=e35]
+      - paragraph [ref=e36]: An AI code analysis platform that uses vector search to navigate large codebases faster and generate documentation from natural language queries.
+      - list [ref=e37]:
+        - listitem [ref=e38]: Built indexed codebase embeddings with ChromaDB for faster repo understanding
+        - listitem [ref=e39]: Reached 85% retrieval accuracy and reduced comprehension time by 60%
+      - paragraph [ref=e40]: Next.js // React // ChromaDB // Groq LLM
+      - generic [ref=e41]:
+        - link "Website" [ref=e42]:
+          - /url: https://dev-in-sight-v2.vercel.app/
+        - link "GitHub" [ref=e43]:
+          - /url: https://github.com/sach2004/DevInSight-v2-
+    - article [ref=e44]:
+      - generic [ref=e45]: LOCALIZATION // VOICE // EDUCATION AI
+      - generic [ref=e46]:
+        - generic [ref=e47]: AI Education Product
+        - generic [ref=e48]: May 2025
+      - heading "SamajAI" [level=3] [ref=e49]
+      - paragraph [ref=e50]: An edtech platform that localizes English educational content into Indian languages with AI adaptation, voice narration, and learning workflows.
+      - list [ref=e51]:
+        - listitem [ref=e52]: Localized lessons with cultural adaptation such as dollar-to-rupee and food-context changes
+        - listitem [ref=e53]: Added voice teacher, chatbot, PDF translator, and quiz generation on a Prisma + PostgreSQL backend
+      - paragraph [ref=e54]: Next.js // Gemini AI // Prisma // PostgreSQL
+      - generic [ref=e55]:
+        - link "Website" [ref=e56]:
+          - /url: https://samaj-ai.vercel.app/
+        - link "GitHub" [ref=e57]:
+          - /url: https://github.com/sach2004/samajAI
+    - article [ref=e58]:
+      - generic [ref=e59]: ORDERS // TRANSACTIONS // REAL-TIME OPS
+      - generic [ref=e60]:
+        - generic [ref=e61]: Production Systems
+        - generic [ref=e62]: Mar 2025 - Present
+      - heading "BuildBit Backend" [level=3] [ref=e63]
+      - paragraph [ref=e64]: Production backend ownership across rescue-commerce flows, admin analytics, notifications, and stock-safe order handling for a multi-role platform.
+      - list [ref=e65]:
+        - listitem [ref=e66]: Built transactional order flows with MongoDB sessions and QR-based pickup verification
+        - listitem [ref=e67]: Implemented real-time KPI dashboards, exports, and stock-aware cart logic without oversell bugs
+      - paragraph [ref=e68]: Node.js // Express.js // MongoDB // Firebase Auth
+      - generic [ref=e69]:
+        - link "Experience" [ref=e70]:
+          - /url: "#experience"
+        - link "Resume" [ref=e71]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+    - article [ref=e72]:
+      - generic [ref=e73]: MODULES // ROLE ACCESS // API DESIGN
+      - generic [ref=e74]:
+        - generic [ref=e75]: Service Architecture
+        - generic [ref=e76]: Jan 2025 - Mar 2025
+      - heading "BytesEdge APIs" [level=3] [ref=e77]
+      - paragraph [ref=e78]: Backend delivery for a web platform spanning user management, profiles, analytics, notices, and admin workflows with reusable service abstractions.
+      - list [ref=e79]:
+        - listitem [ref=e80]: Separated API, business logic, and data access into shared service layers
+        - listitem [ref=e81]: Built role-based access flows, Mongoose schemas, aggregation pipelines, and validation middleware
+      - paragraph [ref=e82]: Node.js // Express // MongoDB // REST APIs
+      - generic [ref=e83]:
+        - link "Experience" [ref=e84]:
+          - /url: "#experience"
+        - link "LinkedIn" [ref=e85]:
+          - /url: https://www.linkedin.com/in/sachin-thankachan-53071622b/
+  - heading "Experience" [level=2] [ref=e86]
+  - generic [ref=e87]:
+    - article [ref=e88]:
+      - paragraph [ref=e89]: Mar 2025 - Present
+      - heading "Full-Stack Developer Intern BuildBit" [level=3] [ref=e90]:
+        - text: Full-Stack Developer Intern
+        - text: BuildBit
+      - paragraph [ref=e91]: Node.js, Express.js, MongoDB, Firebase Auth, FCM, AWS S3
+      - list [ref=e92]:
+        - listitem [ref=e93]: Engineered backend systems for a food rescue platform with User, Vendor, and Admin domains protected by Firebase Auth middleware.
+        - listitem [ref=e94]: Built transactional order flows using MongoDB sessions, stock deduction, QR pickup verification, and a 9-state status machine with event-based notifications.
+        - listitem [ref=e95]: Delivered admin analytics with aggregation pipelines, KPI dashboards, time-series graphs, and export support for Excel and PDF.
+    - article [ref=e96]:
+      - paragraph [ref=e97]: Jan 2025 - Mar 2025
+      - heading "Full-Stack Developer Intern BytesEdge" [level=3] [ref=e98]:
+        - text: Full-Stack Developer Intern
+        - text: BytesEdge
+      - paragraph [ref=e99]: Node.js, Express, MongoDB, REST APIs
+      - list [ref=e100]:
+        - listitem [ref=e101]: Shipped backend features across user management, activity tracking, profiles, analytics, notices, and admin workflows.
+        - listitem [ref=e102]: Designed a service-based architecture to separate API layers, business logic, and shared utilities cleanly.
+        - listitem [ref=e103]: Built CRUD APIs, role-based access control, form-driven workflows, Mongoose schemas, and error-handling middleware.
+  - heading "Technical Edge" [level=2] [ref=e104]
+  - generic [ref=e105]:
+    - article [ref=e106]:
+      - heading "Backend Systems" [level=3] [ref=e107]
+      - list [ref=e108]:
+        - listitem [ref=e109]: Node.js
+        - listitem [ref=e110]: Express.js
+        - listitem [ref=e111]: REST APIs
+        - listitem [ref=e112]: MongoDB
+        - listitem [ref=e113]: PostgreSQL
+        - listitem [ref=e114]: Supabase
+        - listitem [ref=e115]: Prisma
+    - article [ref=e116]:
+      - heading "Frontend Delivery" [level=3] [ref=e117]
+      - list [ref=e118]:
+        - listitem [ref=e119]: React
+        - listitem [ref=e120]: Next.js
+        - listitem [ref=e121]: Tailwind CSS
+        - listitem [ref=e122]: Bootstrap
+        - listitem [ref=e123]: HTML/CSS
+        - listitem [ref=e124]: TypeScript
+    - article [ref=e125]:
+      - heading "AI & Problem Solving" [level=3] [ref=e126]
+      - list [ref=e127]:
+        - listitem [ref=e128]: OpenAI SDK
+        - listitem [ref=e129]: RAG
+        - listitem [ref=e130]: LangChain
+        - listitem [ref=e131]: LangGraph
+        - listitem [ref=e132]: Gemini AI
+        - listitem [ref=e133]: LeetCode 1600+
+        - listitem [ref=e134]: 300+ problems
+    - article [ref=e135]:
+      - heading "DevOps & Tools" [level=3] [ref=e136]
+      - list [ref=e137]:
+        - listitem [ref=e138]: Docker
+        - listitem [ref=e139]: Kubernetes
+        - listitem [ref=e140]: AWS
+        - listitem [ref=e141]: Git
+        - listitem [ref=e142]: GitHub
+        - listitem [ref=e143]: Prometheus
+        - listitem [ref=e144]: Grafana
+        - listitem [ref=e145]: Vercel
+        - listitem [ref=e146]: Postman
+  - generic [ref=e147]:
+    - generic [ref=e148]:
+      - heading "LET'S BUILD." [level=2] [ref=e149]
+      - paragraph [ref=e150]: Available for backend engineering, full-stack product work, and AI application builds.
+      - generic [ref=e151]:
+        - paragraph [ref=e152]:
+          - strong [ref=e153]: "EMAIL:"
+          - link "sachinthankachan0605@gmail.com" [ref=e154]:
+            - /url: mailto:sachinthankachan0605@gmail.com
+        - paragraph [ref=e155]:
+          - strong [ref=e156]: "PHONE:"
+          - link "+91 9391876937" [ref=e157]:
+            - /url: tel:+919391876937
+        - paragraph [ref=e158]:
+          - strong [ref=e159]: "GITHUB:"
+          - link "github.com/sach2004" [ref=e160]:
+            - /url: https://github.com/sach2004
+        - paragraph [ref=e161]:
+          - strong [ref=e162]: "LINKEDIN:"
+          - link "linkedin.com/in/sachin-thankachan-53071622b" [ref=e163]:
+            - /url: https://www.linkedin.com/in/sachin-thankachan-53071622b/
+        - paragraph [ref=e164]:
+          - strong [ref=e165]: "LEETCODE:"
+          - link "leetcode.com/u/23241A0548" [ref=e166]:
+            - /url: https://leetcode.com/u/23241A0548/
+      - generic [ref=e167]:
+        - heading "Achievements" [level=3] [ref=e168]
+        - list [ref=e169]:
+          - listitem [ref=e170]: Winner - Encode 2025 Hackathon, MREC
+          - listitem [ref=e171]: Winner - Vivitsu 2025 Hackathon, GRIET
+          - listitem [ref=e172]: Winner - Udhgam 2025 Hackathon, Woxsen
+          - listitem [ref=e173]: Winner - GenAI Hackathon, GRIET
+          - listitem [ref=e174]: Finalist - Robotics Competition, IIT BHU
+    - generic [ref=e175]:
+      - generic [ref=e176]:
+        - heading "AAC | Web Development Core Team & Mentor" [level=3] [ref=e177]
+        - paragraph [ref=e178]: Oct 2023 - Present
+        - list [ref=e179]:
+          - listitem [ref=e180]: Developed and maintained the official AAC website, improving its digital presence.
+          - listitem [ref=e181]: Mentored 25+ students in MERN stack and Next.js development.
+          - listitem [ref=e182]: Organized workshops, hackathons, and ideathons for 500+ participants.
+          - listitem [ref=e183]: Led new technical initiatives including AI and ML integration workshops.
+      - generic [ref=e184]:
+        - heading "Education" [level=3] [ref=e185]
+        - generic [ref=e186]:
+          - generic [ref=e187]:
+            - heading "Gokaraju Rangaraju Institute of Engineering and Technology" [level=4] [ref=e188]
+            - paragraph [ref=e189]: B.Tech Computer Science | 2023-2027
+            - paragraph [ref=e190]: "GPA: 8.54/10"
+          - generic [ref=e191]:
+            - heading "Sri Chaitanya Junior College" [level=4] [ref=e192]
+            - paragraph [ref=e193]: Class XII (MPC) | 2021-2023
+            - paragraph [ref=e194]: "Percentage: 96.3%"
+          - generic [ref=e195]:
+            - heading "Bharatiya Vidya Bhavan's Public School" [level=4] [ref=e196]
+            - paragraph [ref=e197]: High School | 2008-2020
+            - paragraph [ref=e198]: "Percentage: 88%"
+        - link "DOWNLOAD RESUME" [ref=e199]:
+          - /url: /resume/Sachin-S-Thankachan-Resume.pdf
+  - contentinfo [ref=e200]:
+    - paragraph [ref=e201]: © 2026 SACHIN S THANKACHAN. BUILT FOR BACKEND SYSTEMS, PRODUCT DELIVERY, AND AI-POWERED WORK.
+    - generic [ref=e202]: NEXT.JS PORTFOLIO WITH BRUTALIST ENERGY AND REAL PROJECT DEPTH.
+  - button "Open Next.js Dev Tools" [ref=e208] [cursor=pointer]:
+    - img [ref=e209]
+  - alert [ref=e212]

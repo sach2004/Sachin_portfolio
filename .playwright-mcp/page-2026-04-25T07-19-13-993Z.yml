@@ -1,0 +1,16 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic:
+        - generic:
+          - generic:
+            - generic [ref=e6]: Hostel entry/exit made easier with
+            - generic [ref=e7]: Hostel-Hub.
+    - generic [ref=e9]:
+      - button "SignIn as Admin" [ref=e10] [cursor=pointer]:
+        - link "SignIn as Admin" [ref=e11]:
+          - /url: /api/auth/adminsignin
+      - button "SignUp as User" [ref=e12] [cursor=pointer]:
+        - link "SignUp as User" [ref=e13]:
+          - /url: /api/auth/signup
+  - alert [ref=e14]

@@ -1,0 +1,486 @@
+- generic [ref=e2]:
+  - region
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e6]:
+      - heading "Navigation Menu" [level=2] [ref=e7]
+      - generic [ref=e8]:
+        - link "Homepage" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img [ref=e11]
+        - generic [ref=e13]:
+          - navigation "Global" [ref=e16]:
+            - list [ref=e17]:
+              - listitem [ref=e18]:
+                - button "Platform" [ref=e20] [cursor=pointer]:
+                  - text: Platform
+                  - img [ref=e21]
+              - listitem [ref=e23]:
+                - button "Solutions" [ref=e25] [cursor=pointer]:
+                  - text: Solutions
+                  - img [ref=e26]
+              - listitem [ref=e28]:
+                - button "Resources" [ref=e30] [cursor=pointer]:
+                  - text: Resources
+                  - img [ref=e31]
+              - listitem [ref=e33]:
+                - button "Open Source" [ref=e35] [cursor=pointer]:
+                  - text: Open Source
+                  - img [ref=e36]
+              - listitem [ref=e38]:
+                - button "Enterprise" [ref=e40] [cursor=pointer]:
+                  - text: Enterprise
+                  - img [ref=e41]
+              - listitem [ref=e43]:
+                - link "Pricing" [ref=e44] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+                  - generic [ref=e45]: Pricing
+          - generic [ref=e46]:
+            - button "Search or jump to…" [ref=e49] [cursor=pointer]:
+              - img [ref=e51]
+            - link "Sign in" [ref=e54] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fsach2004%2Fsol_app
+            - link "Sign up" [ref=e55] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=sach2004%2Fsol_app
+            - button "Appearance settings" [ref=e58] [cursor=pointer]:
+              - img
+  - main [ref=e62]:
+    - generic [ref=e63]:
+      - generic [ref=e64]:
+        - generic [ref=e66]:
+          - img [ref=e67]
+          - link "sach2004" [ref=e70] [cursor=pointer]:
+            - /url: /sach2004
+          - generic [ref=e71]: /
+          - strong [ref=e72]:
+            - link "sol_app" [ref=e73] [cursor=pointer]:
+              - /url: /sach2004/sol_app
+          - generic [ref=e74]: Public
+        - generic [ref=e75]:
+          - list:
+            - listitem [ref=e76]:
+              - link "You must be signed in to change notification settings" [ref=e77] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsach2004%2Fsol_app
+                - img [ref=e78]
+                - text: Notifications
+            - listitem [ref=e80]:
+              - link "Fork 0" [ref=e81] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsach2004%2Fsol_app
+                - img [ref=e82]
+                - text: Fork
+                - generic "0" [ref=e84]
+            - listitem [ref=e85]:
+              - link "You must be signed in to star a repository" [ref=e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fsach2004%2Fsol_app
+                - img [ref=e88]
+                - text: Star
+                - generic "0 users starred this repository" [ref=e90]: "0"
+      - navigation "Repository" [ref=e91]:
+        - list [ref=e92]:
+          - listitem [ref=e93]:
+            - link "Code" [ref=e94] [cursor=pointer]:
+              - /url: /sach2004/sol_app
+              - img [ref=e95]
+              - generic [ref=e97]: Code
+          - listitem [ref=e98]:
+            - link "Issues" [ref=e99] [cursor=pointer]:
+              - /url: /sach2004/sol_app/issues
+              - img [ref=e100]
+              - generic [ref=e103]: Issues
+          - listitem [ref=e104]:
+            - link "Pull requests" [ref=e105] [cursor=pointer]:
+              - /url: /sach2004/sol_app/pulls
+              - img [ref=e106]
+              - generic [ref=e108]: Pull requests
+          - listitem [ref=e109]:
+            - link "Actions" [ref=e110] [cursor=pointer]:
+              - /url: /sach2004/sol_app/actions
+              - img [ref=e111]
+              - generic [ref=e113]: Actions
+          - listitem [ref=e114]:
+            - link "Projects" [ref=e115] [cursor=pointer]:
+              - /url: /sach2004/sol_app/projects
+              - img [ref=e116]
+              - generic [ref=e118]: Projects
+          - listitem [ref=e119]:
+            - link "Security and quality" [ref=e120] [cursor=pointer]:
+              - /url: /sach2004/sol_app/security
+              - img [ref=e121]
+              - generic [ref=e123]: Security and quality
+          - listitem [ref=e124]:
+            - link "Insights" [ref=e125] [cursor=pointer]:
+              - /url: /sach2004/sol_app/pulse
+              - img [ref=e126]
+              - generic [ref=e128]: Insights
+    - generic [ref=e141]:
+      - heading "sach2004/sol_app" [level=1] [ref=e143]
+      - generic [ref=e144]:
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - button "main branch" [ref=e151] [cursor=pointer]:
+                - generic [ref=e152]:
+                  - generic [ref=e154]:
+                    - img [ref=e156]
+                    - generic [ref=e159]: main
+                  - generic:
+                    - img
+              - generic [ref=e160]:
+                - link "Branches" [ref=e161] [cursor=pointer]:
+                  - /url: /sach2004/sol_app/branches
+                  - generic [ref=e162]:
+                    - generic:
+                      - img
+                    - generic [ref=e163]: Branches
+                - link "Tags" [ref=e164] [cursor=pointer]:
+                  - /url: /sach2004/sol_app/tags
+                  - generic [ref=e165]:
+                    - generic:
+                      - img
+                    - generic [ref=e166]: Tags
+            - generic [ref=e167]:
+              - generic [ref=e171]:
+                - img [ref=e173]
+                - combobox "Go to file" [ref=e175]
+              - button "Code" [ref=e176] [cursor=pointer]:
+                - generic [ref=e177]:
+                  - generic:
+                    - img
+                  - generic [ref=e178]: Code
+                  - generic:
+                    - img
+          - generic [ref=e179]:
+            - generic [ref=e180]:
+              - heading "Folders and files" [level=2] [ref=e181]
+              - table "Folders and files" [ref=e182]:
+                - rowgroup:
+                  - row "Name Last commit message Last commit date":
+                    - columnheader "Name"
+                    - columnheader "Last commit message":
+                      - generic "Last commit message"
+                    - columnheader "Last commit date":
+                      - generic "Last commit date"
+                - rowgroup [ref=e183]:
+                  - row "Latest commit History 7 Commits" [ref=e184]:
+                    - cell "Latest commit History 7 Commits" [ref=e185]:
+                      - generic [ref=e186]:
+                        - heading "Latest commit" [level=2] [ref=e187]
+                        - generic [ref=e190]:
+                          - heading "History" [level=2] [ref=e191]
+                          - link "7 Commits" [ref=e192] [cursor=pointer]:
+                            - /url: /sach2004/sol_app/commits/main/
+                            - generic [ref=e193]:
+                              - generic:
+                                - img
+                              - generic [ref=e194]: 7 Commits
+                  - row ".idea, (Directory)" [ref=e195]:
+                    - cell ".idea, (Directory)" [ref=e196]:
+                      - generic [ref=e197]:
+                        - img [ref=e198]
+                        - link ".idea, (Directory)" [ref=e203] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/tree/main/.idea
+                          - text: .idea
+                    - cell [ref=e204]
+                    - cell [ref=e206]
+                  - row "components, (Directory)" [ref=e209]:
+                    - cell "components, (Directory)" [ref=e210]:
+                      - generic [ref=e211]:
+                        - img [ref=e212]
+                        - link "components, (Directory)" [ref=e217] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/tree/main/components
+                          - text: components
+                    - cell [ref=e218]
+                    - cell [ref=e220]
+                  - row "public, (Directory)" [ref=e223]:
+                    - cell "public, (Directory)" [ref=e224]:
+                      - generic [ref=e225]:
+                        - img [ref=e226]
+                        - link "public, (Directory)" [ref=e231] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/tree/main/public
+                          - text: public
+                    - cell [ref=e232]
+                    - cell [ref=e234]
+                  - row "src/app, (Directory)" [ref=e237]:
+                    - cell "src/app, (Directory)" [ref=e238]:
+                      - generic [ref=e239]:
+                        - img [ref=e240]
+                        - link "src/app, (Directory)" [ref=e245] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/tree/main/src/app
+                          - text: src/app
+                    - cell [ref=e246]
+                    - cell [ref=e248]
+                  - row ".gitignore, (File)" [ref=e251]:
+                    - cell ".gitignore, (File)" [ref=e252]:
+                      - generic [ref=e253]:
+                        - img [ref=e254]
+                        - link ".gitignore, (File)" [ref=e259] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/.gitignore
+                          - text: .gitignore
+                    - cell [ref=e260]
+                    - cell [ref=e262]
+                  - row "README.md, (File)" [ref=e265]:
+                    - cell "README.md, (File)" [ref=e266]:
+                      - generic [ref=e267]:
+                        - img [ref=e268]
+                        - link "README.md, (File)" [ref=e273] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/README.md
+                          - text: README.md
+                    - cell [ref=e274]
+                    - cell [ref=e276]
+                  - row "eslint.config.mjs, (File)" [ref=e279]:
+                    - cell "eslint.config.mjs, (File)" [ref=e280]:
+                      - generic [ref=e281]:
+                        - img [ref=e282]
+                        - link "eslint.config.mjs, (File)" [ref=e287] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/eslint.config.mjs
+                          - text: eslint.config.mjs
+                    - cell [ref=e288]
+                    - cell [ref=e290]
+                  - row "jsconfig.json, (File)" [ref=e293]:
+                    - cell "jsconfig.json, (File)" [ref=e294]:
+                      - generic [ref=e295]:
+                        - img [ref=e296]
+                        - link "jsconfig.json, (File)" [ref=e301] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/jsconfig.json
+                          - text: jsconfig.json
+                    - cell [ref=e302]
+                    - cell [ref=e304]
+                  - row "next.config.mjs, (File)" [ref=e307]:
+                    - cell "next.config.mjs, (File)" [ref=e308]:
+                      - generic [ref=e309]:
+                        - img [ref=e310]
+                        - link "next.config.mjs, (File)" [ref=e315] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/next.config.mjs
+                          - text: next.config.mjs
+                    - cell [ref=e316]
+                    - cell [ref=e318]
+                  - row "package-lock.json, (File)" [ref=e321]:
+                    - cell "package-lock.json, (File)" [ref=e322]:
+                      - generic [ref=e323]:
+                        - img [ref=e324]
+                        - link "package-lock.json, (File)" [ref=e329] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/package-lock.json
+                          - text: package-lock.json
+                    - cell [ref=e330]
+                    - cell [ref=e332]
+                  - row "package.json, (File)" [ref=e335]:
+                    - cell "package.json, (File)" [ref=e336]:
+                      - generic [ref=e337]:
+                        - img [ref=e338]
+                        - link "package.json, (File)" [ref=e343] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/package.json
+                          - text: package.json
+                    - cell [ref=e344]
+                    - cell [ref=e346]
+                  - row "postcss.config.mjs, (File)" [ref=e349]:
+                    - cell "postcss.config.mjs, (File)" [ref=e350]:
+                      - generic [ref=e351]:
+                        - img [ref=e352]
+                        - link "postcss.config.mjs, (File)" [ref=e357] [cursor=pointer]:
+                          - /url: /sach2004/sol_app/blob/main/postcss.config.mjs
+                          - text: postcss.config.mjs
+                    - cell [ref=e358]
+                    - cell [ref=e360]
+            - generic [ref=e364]:
+              - generic [ref=e365]:
+                - heading "Repository files navigation" [level=2] [ref=e366]
+                - navigation "Repository files" [ref=e367]:
+                  - list [ref=e368]:
+                    - listitem [ref=e369]:
+                      - link "README" [ref=e370] [cursor=pointer]:
+                        - /url: "#"
+                        - img [ref=e372]
+                        - generic [ref=e374]: README
+                - button "Outline" [ref=e375] [cursor=pointer]:
+                  - img [ref=e376]
+              - article [ref=e379]:
+                - paragraph [ref=e380]:
+                  - text: This is a
+                  - link "Next.js" [ref=e381] [cursor=pointer]:
+                    - /url: https://nextjs.org
+                  - text: project bootstrapped with
+                  - link "create-next-app" [ref=e382] [cursor=pointer]:
+                    - /url: https://github.com/vercel/next.js/tree/canary/packages/create-next-app
+                    - code [ref=e383]: create-next-app
+                  - text: .
+                - generic [ref=e384]:
+                  - heading "Getting Started" [level=2] [ref=e385]
+                  - 'link "Permalink: Getting Started" [ref=e386] [cursor=pointer]':
+                    - /url: "#getting-started"
+                    - img [ref=e387]
+                - paragraph [ref=e389]: "First, run the development server:"
+                - generic [ref=e390]:
+                  - generic [ref=e391]:
+                    - text: npm run dev
+                    - generic [ref=e392]: "# or"
+                    - text: yarn dev
+                    - generic [ref=e393]: "# or"
+                    - text: pnpm dev
+                    - generic [ref=e394]: "# or"
+                    - text: bun dev
+                  - button "Copy" [ref=e396] [cursor=pointer]:
+                    - img [ref=e397]
+                - paragraph [ref=e400]:
+                  - text: Open
+                  - link "http://localhost:3000" [ref=e401] [cursor=pointer]:
+                    - /url: http://localhost:3000
+                  - text: with your browser to see the result.
+                - paragraph [ref=e402]:
+                  - text: You can start editing the page by modifying
+                  - code [ref=e403]: app/page.js
+                  - text: . The page auto-updates as you edit the file.
+                - paragraph [ref=e404]:
+                  - text: This project uses
+                  - link "next/font" [ref=e405] [cursor=pointer]:
+                    - /url: https://nextjs.org/docs/app/building-your-application/optimizing/fonts
+                    - code [ref=e406]: next/font
+                  - text: to automatically optimize and load
+                  - link "Geist" [ref=e407] [cursor=pointer]:
+                    - /url: https://vercel.com/font
+                  - text: ", a new font family for Vercel."
+                - generic [ref=e408]:
+                  - heading "Learn More" [level=2] [ref=e409]
+                  - 'link "Permalink: Learn More" [ref=e410] [cursor=pointer]':
+                    - /url: "#learn-more"
+                    - img [ref=e411]
+                - paragraph [ref=e413]: "To learn more about Next.js, take a look at the following resources:"
+                - list [ref=e414]:
+                  - listitem [ref=e415]:
+                    - link "Next.js Documentation" [ref=e416] [cursor=pointer]:
+                      - /url: https://nextjs.org/docs
+                    - text: "- learn about Next.js features and API."
+                  - listitem [ref=e417]:
+                    - link "Learn Next.js" [ref=e418] [cursor=pointer]:
+                      - /url: https://nextjs.org/learn
+                    - text: "- an interactive Next.js tutorial."
+                - paragraph [ref=e419]:
+                  - text: You can check out
+                  - link "the Next.js GitHub repository" [ref=e420] [cursor=pointer]:
+                    - /url: https://github.com/vercel/next.js
+                  - text: "- your feedback and contributions are welcome!"
+                - generic [ref=e421]:
+                  - heading "Deploy on Vercel" [level=2] [ref=e422]
+                  - 'link "Permalink: Deploy on Vercel" [ref=e423] [cursor=pointer]':
+                    - /url: "#deploy-on-vercel"
+                    - img [ref=e424]
+                - paragraph [ref=e426]:
+                  - text: The easiest way to deploy your Next.js app is to use the
+                  - link "Vercel Platform" [ref=e427] [cursor=pointer]:
+                    - /url: https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme
+                  - text: from the creators of Next.js.
+                - paragraph [ref=e428]:
+                  - text: Check out our
+                  - link "Next.js deployment documentation" [ref=e429] [cursor=pointer]:
+                    - /url: https://nextjs.org/docs/app/building-your-application/deploying
+                  - text: for more details.
+                - generic [ref=e430]:
+                  - heading "sol_app" [level=1] [ref=e431]
+                  - 'link "Permalink: sol_app" [ref=e432] [cursor=pointer]':
+                    - /url: "#sol_app"
+                    - img [ref=e433]
+        - generic [ref=e438]:
+          - generic [ref=e441]:
+            - heading "About" [level=2] [ref=e442]
+            - generic [ref=e443]:
+              - img [ref=e444]
+              - link "sol-app-lime.vercel.app" [ref=e447] [cursor=pointer]:
+                - /url: https://sol-app-lime.vercel.app
+            - heading "Resources" [level=3] [ref=e448]
+            - link "Readme" [ref=e450] [cursor=pointer]:
+              - /url: "#readme-ov-file"
+              - img [ref=e451]
+              - text: Readme
+            - link "Activity" [ref=e454] [cursor=pointer]:
+              - /url: /sach2004/sol_app/activity
+              - img [ref=e455]
+              - text: Activity
+            - heading "Stars" [level=3] [ref=e457]
+            - link "0 stars" [ref=e459] [cursor=pointer]:
+              - /url: /sach2004/sol_app/stargazers
+              - img [ref=e460]
+              - strong [ref=e462]: "0"
+              - text: stars
+            - heading "Watchers" [level=3] [ref=e463]
+            - link "0 watching" [ref=e465] [cursor=pointer]:
+              - /url: /sach2004/sol_app/watchers
+              - img [ref=e466]
+              - strong [ref=e468]: "0"
+              - text: watching
+            - heading "Forks" [level=3] [ref=e469]
+            - link "0 forks" [ref=e471] [cursor=pointer]:
+              - /url: /sach2004/sol_app/forks
+              - img [ref=e472]
+              - strong [ref=e474]: "0"
+              - text: forks
+            - link "Report repository" [ref=e476] [cursor=pointer]:
+              - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fsach2004%2Fsol_app&report=sach2004+%28user%29
+          - generic [ref=e478]:
+            - heading "Releases" [level=2] [ref=e479]:
+              - link "Releases" [ref=e480] [cursor=pointer]:
+                - /url: /sach2004/sol_app/releases
+            - generic [ref=e481]: No releases published
+          - generic "Loading latest packages" [ref=e484]:
+            - heading "Packages" [level=2] [ref=e485]:
+              - link "Packages" [ref=e486] [cursor=pointer]:
+                - /url: /users/sach2004/packages?repo_name=sol_app
+          - generic "Loading contributors" [ref=e498]:
+            - generic:
+              - heading "Contributors" [level=2] [ref=e499]:
+                - link "Contributors" [ref=e500] [cursor=pointer]:
+                  - /url: /sach2004/sol_app/graphs/contributors
+              - list [ref=e501]:
+                - listitem [ref=e502]
+                - listitem [ref=e504]
+                - listitem [ref=e506]
+          - generic [ref=e509]:
+            - heading "Languages" [level=2] [ref=e510]
+            - list [ref=e515]:
+              - listitem [ref=e516]:
+                - link "JavaScript 99.6%" [ref=e517] [cursor=pointer]:
+                  - /url: /sach2004/sol_app/search?l=javascript
+                  - img [ref=e518]
+                  - generic [ref=e520]: JavaScript
+                  - generic [ref=e521]: 99.6%
+              - listitem [ref=e522]:
+                - link "CSS 0.4%" [ref=e523] [cursor=pointer]:
+                  - /url: /sach2004/sol_app/search?l=css
+                  - img [ref=e524]
+                  - generic [ref=e526]: CSS
+                  - generic [ref=e527]: 0.4%
+  - contentinfo [ref=e529]:
+    - heading "Footer" [level=2] [ref=e530]
+    - generic [ref=e531]:
+      - generic [ref=e532]:
+        - link "GitHub Homepage" [ref=e533] [cursor=pointer]:
+          - /url: https://github.com
+          - img [ref=e534]
+        - generic [ref=e536]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e537]:
+        - heading "Footer navigation" [level=3] [ref=e538]
+        - list "Footer navigation" [ref=e539]:
+          - listitem [ref=e540]:
+            - link "Terms" [ref=e541] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e542]:
+            - link "Privacy" [ref=e543] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e544]:
+            - link "Security" [ref=e545] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e546]:
+            - link "Status" [ref=e547] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e548]:
+            - link "Community" [ref=e549] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e550]:
+            - link "Docs" [ref=e551] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e552]:
+            - link "Contact" [ref=e553] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e554]:
+            - button "Manage cookies" [ref=e556] [cursor=pointer]
+          - listitem [ref=e557]:
+            - button "Do not share my personal information" [ref=e559] [cursor=pointer]

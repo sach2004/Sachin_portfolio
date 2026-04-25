@@ -1,0 +1,15 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation [ref=e3]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - generic [ref=e8]: S
+          - generic [ref=e9]: SolSuite
+        - generic [ref=e10]:
+          - button "Airdrop" [ref=e11]
+          - button "Token Launch" [ref=e12]
+          - button "DEX" [ref=e13]
+        - button "Select Wallet" [ref=e16] [cursor=pointer]
+    - main [ref=e17]:
+      - paragraph [ref=e22]: Loading...
+  - alert [ref=e23]
